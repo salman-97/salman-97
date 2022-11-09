@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salman-97
-- 👀 I’m interested in ...
 - 🌱 Learned C, C++, Java, DBMS
 - 🌱 I’m currently learning Kotlin, HTML/CSS/JS, C#
+- 👀 I used to read and watch Tech Related stuff like what GPUs and CPUs are the newest their benchmarks. I love to play games in my spare time 
 - 📫 How to reach me? via my instagram @ssalman.97 or add me on discord _salman97#6508
 
 <!---
