@@ -10,4 +10,4 @@ I am new to GitHub and appreciate your positive response. I am here to learn new
 
 
 ## Let's Connect -
-[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mmsalman/)](https://https://www.linkedin.com/in/mmsalman/)
+[![Linkedin Badge](https://img.shields.io/badge/-mmsalman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mmsalman/)](https://https://www.linkedin.com/in/mmsalman/)
