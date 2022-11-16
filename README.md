@@ -7,3 +7,7 @@
 <!---
 I am new to GitHub and appreciate your positive response. I am here to learn new technology and keep growing in the field of my study
 --->
+
+
+## Let's Connect -
+[![Linkedin Badge](https://img.shields.io/badge/-muhtalhakhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mmsalman/)](https://https://www.linkedin.com/in/mmsalman/)
