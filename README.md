@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @salman-97
+### <img src="https://github.com/salman-97/salman-97/blob/main/Hi.gif" width="29px"> HELLO WORLD &nbsp;<img src="https://github.com/salman-97/salman-97/blob/main/Earth.gif" width="24px"> 
+
+- 👋 Hi, I’m **MUHAMMAD SALMAN**
 - 🌱 Learned C, C++, Java, DBMS
 - 🌱 I’m currently learning Kotlin, HTML/CSS/JS, C#
 - 👀 I used to read and watch Tech Related stuff like what GPUs and CPUs are the newest their benchmarks. I love to play games in my spare time 
