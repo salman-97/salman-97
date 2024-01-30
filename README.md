@@ -1,8 +1,9 @@
 ### <img src="https://github.com/salman-97/salman-97/blob/main/Hi.gif" width="29px"> HELLO WORLD &nbsp;<img src="https://github.com/salman-97/salman-97/blob/main/Earth.gif" width="24px"> 
 
 - 👋 Hi, I’m **MUHAMMAD SALMAN**
-- 🌱 Learned C, C++, Java, DBMS
-- 🌱 I’m currently learning Kotlin, HTML/CSS/JS, C#
+- 🌱 FLUTTER Frontend Developer
+- 🌱 Strong Hands-On Java | C Sharp | Python 🐍
+- 🌱 Learning JavaScript 
 - 👀 I used to read and watch Tech Related stuff like what GPUs and CPUs are the newest their benchmarks. I love to play games in my spare time 
 - 📫 How to reach me? via my instagram @ssalman.97 or add me on discord _salman97#6508
 
