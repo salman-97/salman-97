@@ -3,7 +3,7 @@
 - 👋 Hi, I’m **MUHAMMAD SALMAN**
 - 🌱 FLUTTER Frontend Developer
 - 🌱 Strong Hands-On Java | C Sharp | Python 🐍
-- 🌱 Learning JavaScript 
+- 🌱 Learning JavaScript | Linux Command Line
 - 👀 I used to read and watch Tech Related stuff like what GPUs and CPUs are the newest their benchmarks. I love to play games in my spare time 
 - 📫 How to reach me? via my instagram @ssalman.97 or add me on discord _salman97#6508
 
